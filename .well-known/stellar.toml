@@ -6,21 +6,21 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="UnitedHealth Group"
-ORG_URL="XXX"
-ORG_DESCRIPTION=""
-ORG_LOGO="XXX"
+ORG_URL="https://stellarunited.digital/"
+ORG_DESCRIPTION="We are a global team of health and wellness professionals working to create an advanced, effective healthcare system."
+ORG_LOGO="https://stellarunited.digital/logo.png"
 ORG_OFFICIAL_EMAIL="stellaruhg@gmail.com"
 
 
 [[CURRENCIES]]
-code="XXX"
+code="UHG"
 status="live"
 display_decimals=2
 issuer="XXX"
 anchor_asset_type="crypto"
 name="UnitedHealth Group"
-desc="XXX"
-image="XXX"
+desc="We are a global team of health and wellness professionals working to create an advanced, effective healthcare system."
+image="https://stellarunited.digital/logo.png"
 fixed_number=100000000
 max_number=100000000
 is_unlimited=false
